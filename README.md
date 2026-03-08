@@ -145,7 +145,7 @@ DIVIDE(
 
 # 📷 Dashboard Preview
 
-![Superstore Dashboard](images/superstore_dashboard.png)
+![Superstore Dashboard](https://github.com/Anuragkumbhar02/Superstore-Retail-Sales-Customer-Analytics/blob/main/Dashboard.png)
 
 ---
 
@@ -198,6 +198,7 @@ This project highlights the following data analytics skills:
 # 👨‍💻 Author
 
 Anurag Kumbhar
+
 Aspiring Data Analyst with skills in:
 
 * SQL
